@@ -1,1 +1,1 @@
-A website for my favourite character is currently being built here!
+# Week 03 Step 01
