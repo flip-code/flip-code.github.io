@@ -17,3 +17,8 @@ this one has really cool online
 courses. Also known as MOOC = Massive open online courses
 I use here my already existing account on github, I think
 I created that as i participated in the project "Font Awesome"
+
+As I said:
+
+> a man got to do what a man has to do
+> like in that old monty python sketch
