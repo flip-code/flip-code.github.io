@@ -23,4 +23,4 @@ As I said:
 > a man got to do what a man has to do
 > like in that old monty python sketch
 
-<img src="https://st.depositphotos.com/1706369/1316/i/950/depositphotos_13160012-stock-photo-reflex-digital-camera-front-view.jpg" />
+<img src="electronics05.jpg" />
